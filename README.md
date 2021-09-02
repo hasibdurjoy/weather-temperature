@@ -1,1 +1,1 @@
-[#Click Here to see temperature of your city](https://hasibdurjoy.github.io/weather-temperature/)
+[Click Here to see temperature of your city](https://hasibdurjoy.github.io/weather-temperature/)
